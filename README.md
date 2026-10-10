@@ -9,6 +9,10 @@
 **Planned Project Effort:** 33 Hours (Strict Allocation Target Met)  
 **Report Document:** [report/Hariom_Upadhyay_YuvaIntern_Week1_Project_Planning_Report.docx](report/Hariom_Upadhyay_YuvaIntern_Week1_Project_Planning_Report.docx)  
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Submission--Ready-success.svg)]()
+[![Internship](https://img.shields.io/badge/YuvaIntern-Week%201%20Milestone-orange.svg)]()  
+
 ---
 
 ## 1. Executive Summary & Project Overview
